@@ -72,6 +72,31 @@ The models were evaluated using classification performance metrics such as:
 
 Detailed results and visualizations are available in the Jupyter Notebook.
 
+## 📈 Results
+
+The final Random Forest Classifier achieved an **accuracy of 94.26%** on the test dataset.
+
+| Metric | Class 0 | Class 1 |
+|---|---:|---:|
+| Precision | 0.93 | 0.95 |
+| Recall | 0.95 | 0.93 |
+| F1-score | 0.94 | 0.94 |
+
+### Overall Performance
+
+- **Accuracy:** 94.26%
+- **Macro Average F1-score:** 0.94
+- **Weighted Average F1-score:** 0.94
+- **Test Samples:** 4,424
+
+The model demonstrated balanced precision, recall, and F1-score across both classes, indicating consistent classification performance on the test dataset.
+
+### Confusion Matrix
+
+The confusion matrix shows the classification performance of the final Random Forest model across the two classes.
+
+![Confusion Matrix](results/confusion_matrix.png)
+
 ## 🛠️ Technologies Used
 
 * Python
