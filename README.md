@@ -109,7 +109,7 @@ forest-fire-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/forest-fire-detection.git
+git clone https://github.com/raj-vipul/forest-fire-detection.git
 cd forest-fire-detection
 ```
 
