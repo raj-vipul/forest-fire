@@ -87,7 +87,7 @@ Detailed results and visualizations are available in the Jupyter Notebook.
 ## 📁 Project Structure
 
 ```text
-forest-fire-detection/
+forest-fire/
 │
 ├── Forest_fire_detection.ipynb
 ├── README.md
@@ -109,7 +109,7 @@ forest-fire-detection/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/raj-vipul/forest-fire-detection.git
+git clone https://github.com/raj-vipul/forest-fire.git
 cd forest-fire-detection
 ```
 
