@@ -1,4 +1,4 @@
- # Automated Forest Fire Detection and Hotspot Prediction
+ # Automated Forest Fire Detection Using Machine Learning
 
 ## 📌 Overview
 
@@ -59,18 +59,6 @@ The final model selected for the forest fire classification task is:
 
 Random Forest was selected because it can effectively handle nonlinear relationships between environmental and geographical features and provides a robust ensemble-based classification approach.
 
-## 📈 Model Evaluation
-
-The models were evaluated using classification performance metrics such as:
-
-* Accuracy
-* Precision
-* Recall
-* F1-score
-* Confusion Matrix
-* Cross-validation performance
-
-Detailed results and visualizations are available in the Jupyter Notebook.
 
 ## 📈 Results
 
@@ -118,15 +106,9 @@ forest-fire/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-│
-├── data/
-│   └── README.md
-│
-├── models/
-│   └── README.md
-│
+├── LICENSE
 └── results/
-    └── README.md
+    └── confusion_matrix.png
 ```
 
 ## 🚀 How to Run
